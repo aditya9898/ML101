@@ -31,5 +31,5 @@ __You have the following choices for installing the frameworks__
 
 [Help for NVIDIA docker images ](https://docs.nvidia.com/ngc/ngc-getting-started-guide/index.html)
 
-* Go for the docker method ONLY if you're on a Linux System
+* Go for the docker method ONLY if you're on a Linux System with docker-ce or docker engine installed.
 * It would be easier and better to get the environment setup using NVIDIA GPU CLOUD
