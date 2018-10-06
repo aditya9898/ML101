@@ -15,5 +15,6 @@
 
 
 __Stuff to read__
+[Article](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
 [AI WINTER IS COMING](https://www.popsci.com/ai-winter-artificial-intelligence#page-3)
  
