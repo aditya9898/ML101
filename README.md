@@ -1,4 +1,6 @@
 # **Repo for Machine Learning Study Group**
+
+![alt text](https://juststickers.in/wp-content/uploads/2017/04/machine-learning.png)
 >To get started:
 
 
