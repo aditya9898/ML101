@@ -35,3 +35,7 @@ __You have the following choices for installing the frameworks__
 
 * Go for the docker method ONLY if you're on a Linux System with docker-ce or docker engine installed.
 * It would be easier and better to get the environment setup using NVIDIA GPU CLOUD
+
+
+
+[Slack group invite](https://join.slack.com/t/ml101-aces/shared_invite/enQtNDU0MzE4OTczMTkwLTQ2NzYwZTE0ZmIyYzU4NmZkMjdiMGMxYTgwMzY1MzMwODI1NDkzYTgyNDI0OTJjNTdhZmJkY2FlODFkYThmNWE)
