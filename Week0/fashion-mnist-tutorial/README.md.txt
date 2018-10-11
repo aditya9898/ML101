@@ -1,0 +1,1 @@
+# Tutorial for training a model on the fashion mnist dataset using keras with tensorflow backend
